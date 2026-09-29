@@ -1,7 +1,18 @@
-# casc1 
+#  Задание3
 
 ```
-hgychbc
-hkkgoj
-gjik
+x=1
+a=x+x 
+y=a+a 
+b=y+y 
+c=b+y 
+print(c)
+
+x=1
+a=x+x 
+y=a+a 
+b=y+y 
+c=b+b
+print(c)
+
 ```
